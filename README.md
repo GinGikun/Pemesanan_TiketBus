@@ -1,5 +1,5 @@
 <h1>LOGIN TIKET PEMESANAN BUS</h1>
-(https://github.com/GinGikun/Pemesanan_TiketBus/assets/88116728/15d4bbfb-a060-4927-863a-9d36ff2c4031)
+![image](https://github.com/GinGikun/Pemesanan_TiketBus/assets/88116728/15d4bbfb-a060-4927-863a-9d36ff2c4031)
 <h1>REGISTER TIKET PEMESANAN BUS</h1>
 ![image](https://github.com/GinGikun/Pemesanan_TiketBus/assets/88116728/12bb3499-6e50-4100-83f0-47401c258722)
 <h1>DETAIL PEMBAYARAN</h1>
