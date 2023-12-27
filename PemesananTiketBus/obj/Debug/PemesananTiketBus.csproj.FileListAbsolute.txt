@@ -1,0 +1,57 @@
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe.config
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.pdb
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginForm.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Properties.Resources.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.exe
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.pdb
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.CreateAccountForm.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CopyComplete
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginSuccesForm.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasEkonomi.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasExecutive.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Form1.resources
+C:\Users\USER\Desktop\Portofolio\Pemrograman Aplikasi\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.DetailPembayaran.resources
+E:\NIKO\semester3\Pemrograman\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.AssemblyReference.cache
+E:\NIKO\semester3\Pemrograman\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.exe
+E:\NIKO\semester3\Pemrograman\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.pdb
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.exe
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.pdb
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.CreateAccountForm.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Form1.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasEkonomi.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasExecutive.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginForm.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginSuccesForm.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe.config
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.pdb
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Documents\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.DetailPembayaran.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe.config
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.exe
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\bin\Debug\PemesananTiketBus.pdb
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\bin\Debug\Guna.UI2.dll
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.AssemblyReference.cache
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.CreateAccountForm.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Form1.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.DetailPembayaran.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasEkonomi.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.KelasExecutive.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginForm.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.LoginSuccesForm.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.Properties.Resources.resources
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.GenerateResource.cache
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CoreCompileInputs.cache
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.csproj.CopyComplete
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.exe
+F:\JOKI\FP\2\2\FinalProject\PemesananTiketBus\obj\Debug\PemesananTiketBus.pdb
